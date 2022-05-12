@@ -1,5 +1,6 @@
 # NotesApp
 https://www.freecodecamp.org/news/here-are-some-app-ideas-you-can-build-to-level-up-your-coding-skills-39618291f672/
+
 Tier: 1 — Beginner
 
 Description: Create and store your notes for a later purpose!
